@@ -535,7 +535,7 @@ void on_exit()
 	thr_main.join();
 }
 
-void Program()
+void init()
 {
 	font.loadFromFile(FILENAME_FONT);
 

@@ -18,5 +18,5 @@ void set_local_player_color(bool isWhite);
 
 void clear_highlights();
 
-void Program();
+void init();
 void init_resources();
